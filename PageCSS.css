@@ -1,0 +1,11 @@
+.tableau {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px; 
+}
+
+.cellule {
+    border: 1px solid #a31212;
+    padding: 10px;
+    text-align: center;
+}
